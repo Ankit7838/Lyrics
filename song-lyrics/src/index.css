@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(to left, #91eae4, #7f7fd5);
+}
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3rem;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 0px;
+}
